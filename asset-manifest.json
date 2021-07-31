@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/PortfoilioKhaidemHeroku/static/css/main.cbb87d4d.chunk.css",
+    "main.js": "/PortfoilioKhaidemHeroku/static/js/main.3ec17513.chunk.js",
+    "main.js.map": "/PortfoilioKhaidemHeroku/static/js/main.3ec17513.chunk.js.map",
+    "runtime-main.js": "/PortfoilioKhaidemHeroku/static/js/runtime-main.a1f2d1d0.js",
+    "runtime-main.js.map": "/PortfoilioKhaidemHeroku/static/js/runtime-main.a1f2d1d0.js.map",
+    "static/js/2.0c0253c9.chunk.js": "/PortfoilioKhaidemHeroku/static/js/2.0c0253c9.chunk.js",
+    "static/js/2.0c0253c9.chunk.js.map": "/PortfoilioKhaidemHeroku/static/js/2.0c0253c9.chunk.js.map",
+    "static/js/3.b251d786.chunk.js": "/PortfoilioKhaidemHeroku/static/js/3.b251d786.chunk.js",
+    "static/js/3.b251d786.chunk.js.map": "/PortfoilioKhaidemHeroku/static/js/3.b251d786.chunk.js.map",
+    "index.html": "/PortfoilioKhaidemHeroku/index.html",
+    "static/css/main.cbb87d4d.chunk.css.map": "/PortfoilioKhaidemHeroku/static/css/main.cbb87d4d.chunk.css.map",
+    "static/js/2.0c0253c9.chunk.js.LICENSE.txt": "/PortfoilioKhaidemHeroku/static/js/2.0c0253c9.chunk.js.LICENSE.txt",
+    "static/media/CalendarReact.302782e5.png": "/PortfoilioKhaidemHeroku/static/media/CalendarReact.302782e5.png",
+    "static/media/codingninjas_Fotor.dad0b86d.png": "/PortfoilioKhaidemHeroku/static/media/codingninjas_Fotor.dad0b86d.png",
+    "static/media/covidmap.e4d17006.png": "/PortfoilioKhaidemHeroku/static/media/covidmap.e4d17006.png",
+    "static/media/eCom.9cfe6b0a.png": "/PortfoilioKhaidemHeroku/static/media/eCom.9cfe6b0a.png",
+    "static/media/kurosaki.63225fbe.jpeg": "/PortfoilioKhaidemHeroku/static/media/kurosaki.63225fbe.jpeg",
+    "static/media/meals_Fotor.083bbf9b.png": "/PortfoilioKhaidemHeroku/static/media/meals_Fotor.083bbf9b.png",
+    "static/media/profilechallenge.f1925d46.png": "/PortfoilioKhaidemHeroku/static/media/profilechallenge.f1925d46.png",
+    "static/media/table.a3e25ac4.png": "/PortfoilioKhaidemHeroku/static/media/table.a3e25ac4.png",
+    "static/media/udacity_Fotor.78e04c7e.png": "/PortfoilioKhaidemHeroku/static/media/udacity_Fotor.78e04c7e.png",
+    "static/media/vit_Fotor.2fb71393.png": "/PortfoilioKhaidemHeroku/static/media/vit_Fotor.2fb71393.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f2d1d0.js",
+    "static/js/2.0c0253c9.chunk.js",
+    "static/css/main.cbb87d4d.chunk.css",
+    "static/js/main.3ec17513.chunk.js"
+  ]
+}
